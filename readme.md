@@ -1,4 +1,8 @@
 # App name: GST-DATA-MASTER
+![image](https://user-images.githubusercontent.com/61933492/124656265-9501ae80-debe-11eb-98f8-2ef8de93bdc2.png)
+![image](https://user-images.githubusercontent.com/61933492/124656337-b19de680-debe-11eb-9a40-e4c79aeb0239.png)
+![image](https://user-images.githubusercontent.com/61933492/124656433-d1cda580-debe-11eb-8a95-7452e4e3d293.png)
+![image](https://user-images.githubusercontent.com/61933492/124656462-deea9480-debe-11eb-8f9f-934ff6a06f7a.png)
 
 ## Idea Behind App:
 GST (Goods and Services Tax) which was introduced by Govt. of India. In all types of business whether it's local or global the calculation of GST has been a time-consuming task. So to reduce this hustle and bustle we came up with an application GST-DATA-MASTER.
@@ -10,7 +14,3 @@ The user will be able to sign-up through sign-in screen. After sign-up user will
 ## NOTE:
 We are uploading the original GST file and the converted GSTR File in GitHub for reference and the GitHub URL to the API is nks102000/GST-Master
 
-![image](https://user-images.githubusercontent.com/61933492/124656265-9501ae80-debe-11eb-98f8-2ef8de93bdc2.png)
-![image](https://user-images.githubusercontent.com/61933492/124656337-b19de680-debe-11eb-9a40-e4c79aeb0239.png)
-![image](https://user-images.githubusercontent.com/61933492/124656433-d1cda580-debe-11eb-8a95-7452e4e3d293.png)
-![image](https://user-images.githubusercontent.com/61933492/124656462-deea9480-debe-11eb-8f9f-934ff6a06f7a.png)
