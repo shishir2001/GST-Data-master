@@ -6,8 +6,6 @@ While filing the GST Report every year businessmen and C.A. all around the count
 ## Functioning:
 The user will be able to sign-up through sign-in screen. After sign-up user will be able to navigate to upload screen where the user data in the form of excel file has to be shared from external source (functionality of upload from internal storage is provided). After uploading the calculate button will be provided so that user can click on it and the GST will be calculated. The calculate button gives an API call to a Custom build API in JAVA hosted on Microsoft AZURE which give the final GSTR Sheet to be downloaded. 
 
-## Issues:
-The API works fine on the Virtual Machine and the final file is store in it but when give a HTTP call the file data gets corrupted during the transfer and thus shows all values as “1”. Since this was the first time for us building a custom API and using cloud so we could not fix the issue in the time provided.  
 
 ## NOTE:
 We are uploading the original GST file and the converted GSTR File in GitHub for reference and the GitHub URL to the API is nks102000/GST-Master
